@@ -1,4 +1,4 @@
-# Bill Watterson Tribute
+# Bill Watterson Tribute (My first website)
 
 #### _Created: 08.04.2017_
 #### _Last Modified: 11.21.2017_
@@ -7,7 +7,7 @@
 
 ## Description
 
-_Tribute site for Bill Watterson._
+_Tribute site for Bill Watterson. The first page I ever made._
 
 ![Screenshot](https://github.com/phuzisham/bill-watterson-tribute/blob/master/img/cap.png "Screen Capture")
 ![Screenshot](https://github.com/phuzisham/bill-watterson-tribute/blob/master/img/cap2.png "Screen Capture")
